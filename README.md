@@ -93,5 +93,5 @@ This work demonstrates that LLM valuation tasks offer a unique lens into model i
 
 ---
 
-**Repository:** https://github.com/anshulk-cmu/RA-LLM-Interpretability-Task
-**Submission:** RA - LLM Interpretability Task
+- **Repository:** https://github.com/anshulk-cmu/RA-LLM-Interpretability-Task
+- **Submission:** RA - LLM Interpretability Task
