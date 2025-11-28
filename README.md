@@ -1,13 +1,13 @@
 # LLM Interpretability for Real Estate Valuation
 
-**Author:** Anshul Kumar
-**Email:** anshulk@andrew.cmu.edu
-**Project:** Research Assistant Application - LLM Interpretability Task
-**Date:** November 2024
+- **Author:** Anshul Kumar
+- **Email:** anshulk@andrew.cmu.edu
+- **Project:** Research Assistant Application - LLM Interpretability Task
+- **Date:** November 2025
 
 ## Project Overview
 
-This research project investigates how Large Language Models interpret and reason about real estate valuation tasks. Rather than optimizing for prediction accuracy, the study focuses on understanding the variance, reasoning transparency, and interpretability of AI-generated home price estimates across multiple models and prompting strategies.
+This task investigates how Large Language Models interpret and reason about real estate valuation tasks. Rather than optimizing for prediction accuracy, the task focuses on understanding the variance, reasoning transparency, and interpretability of AI-generated home price estimates across multiple models and prompting strategies.
 
 ## Dataset Description
 
@@ -87,7 +87,7 @@ Statistical framework examining:
 - Production-ready reproducible pipeline
 - Research methodology documentation
 
-## Research Contribution
+## Results
 
 This work demonstrates that LLM valuation tasks offer a unique lens into model interpretability. By deliberately de-emphasizing accuracy and focusing on variance and reasoning transparency, we can understand which features models naturally weight, how prompting shapes reasoning chains, and where different architectures exhibit systematic biases.
 
