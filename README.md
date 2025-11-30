@@ -5,12 +5,12 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Weave](https://img.shields.io/badge/Tracking-W%26B%20Weave-orange.svg)](https://wandb.ai)
 
-**Author:** Anshul Kumar
-**Email:** anshulk@andrew.cmu.edu
-**Institution:** Carnegie Mellon University
-**Project Type:** Research Assistant Application - LLM Interpretability Task
-**Date:** November 2025
-**Repository:** https://github.com/anshulk-cmu/RA-LLM-Interpretability-Task
+- **Author:** Anshul Kumar
+- **Email:** anshulk@andrew.cmu.edu
+- **Institution:** Carnegie Mellon University
+- **Project Type:** Research Assistant Application - LLM Interpretability Task
+- **Date:** November 2025
+- **Repository:** https://github.com/anshulk-cmu/RA-LLM-Interpretability-Task
 
 ---
 
